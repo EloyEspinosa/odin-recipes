@@ -1,1 +1,2 @@
 # odin-recipes
+This page was made as part of [The Odin Project](https://www.theodinproject.com/lessons/foundations-links-and-images). It consists of a simple webpage that links to three different recipes: a cookie recipe, a pancakes recipe, and a waffle recipe. Each recipe contains ingredients and steps that come from [AllRecipes](https://www.allrecipes.com) (each specific recipe source is linked in its corresponding page).
