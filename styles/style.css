@@ -11,10 +11,11 @@ h1 {
 	font-weight: bold;
 	text-align: center;
 }
-#ingredients, #steps {
+h2 {
 	color: blue;
 }
-div.description {
+div.description,
+.description h2 {
 	background-color: blue;
 	color: white;
 	text-align: center;
