@@ -1,0 +1,29 @@
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+img {
+	height: 300px;
+	width: auto;
+	margin: auto;
+	display: block;
+}
+h1 {
+	font-weight: bold;
+	text-align: center;
+}
+#ingredients, #steps {
+	color: blue;
+}
+div.description {
+	background-color: blue;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+.end {
+	text-align: center;
+	font-weight: bold;
+	font-size: 125%;
+	background-color: green;
+	color: white;
+}
